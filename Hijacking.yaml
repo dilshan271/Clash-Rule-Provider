@@ -17,7 +17,6 @@ payload:
   - DOMAIN-SUFFIX,91veg.com
   - DOMAIN-SUFFIX,9s6q.cn
   - DOMAIN-SUFFIX,adsame.com
-  - DOMAIN-SUFFIX,aiclk.com
   - DOMAIN-SUFFIX,akuai.top
   - DOMAIN-SUFFIX,atplay.cn
   - DOMAIN-SUFFIX,baiwanchuangyi.com
@@ -146,6 +145,7 @@ payload:
   - IP-CIDR,221.6.4.148/32,no-resolve
   # > ChinaMobile
   - IP-CIDR,114.247.28.96/32,no-resolve
+  - IP-CIDR,120.240.95.37/32,no-resolve
   - IP-CIDR,221.179.131.72/32,no-resolve
   - IP-CIDR,221.179.140.145/32,no-resolve
   # > Dr.Peng
@@ -160,23 +160,17 @@ payload:
   - IP-CIDR,211.161.101.106/32,no-resolve
   - IP-CIDR,220.115.251.25/32,no-resolve
   - IP-CIDR,222.73.156.235/32,no-resolve
-
-  # Malware
   # > Huawei AspiegelBot
   - IP-CIDR,114.119.160.0/21,no-resolve
   # > KuaiZip
-  # https://zhuanlan.zhihu.com/p/39534279
   - DOMAIN-SUFFIX,kuaizip.com
   # > MacKeeper
-  # https://www.lizhi.io/blog/40002904
   - DOMAIN-SUFFIX,mackeeper.com
   - DOMAIN-SUFFIX,zryydi.com
   # > Adobe Flash China Special Edition
-  # https://www.zhihu.com/question/281163698/answer/441388130
   - DOMAIN-SUFFIX,flash.cn
   - DOMAIN,geo2.adobe.com
   # > C&J Marketing
-  # https://www.zhihu.com/question/46746200
   - DOMAIN-SUFFIX,4009997658.com
   - DOMAIN-SUFFIX,abbyychina.com
   - DOMAIN-SUFFIX,bartender.cc
@@ -200,6 +194,7 @@ payload:
   - DOMAIN-SUFFIX,huishenghuiying.com.cn
   - DOMAIN-SUFFIX,hypersnap.net
   - DOMAIN-SUFFIX,iconworkshop.cn
+  - DOMAIN-SUFFIX,idmchina.net
   - DOMAIN-SUFFIX,imindmap.cc
   - DOMAIN-SUFFIX,jihehuaban.com.cn
   - DOMAIN-SUFFIX,keyshot.cc
