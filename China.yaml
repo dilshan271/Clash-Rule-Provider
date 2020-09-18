@@ -382,3 +382,6 @@ payload:
   - DOMAIN-SUFFIX,zhuihd.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,images-cn.ssl-images-amazon.com
+# 6pan
+  - DOMAIN-SUFFIX,cold2.qiecdn.com
+  - DOMAIN-SUFFIX,download2.6pan.cn
