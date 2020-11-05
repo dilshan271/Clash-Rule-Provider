@@ -264,8 +264,6 @@ payload:
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,worldbank.org
   - DOMAIN-SUFFIX,worldscientific.com
-  # > Other
-  - DOMAIN-SUFFIX,cn
   # - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,115.com
   - DOMAIN-SUFFIX,360in.com
@@ -385,3 +383,6 @@ payload:
 # 6pan
   - DOMAIN-SUFFIX,qiecdn.com
   - DOMAIN-SUFFIX,6pan.cn
+    # > Other
+  - DOMAIN-SUFFIX,ali213.net
+  - DOMAIN-SUFFIX,cn
