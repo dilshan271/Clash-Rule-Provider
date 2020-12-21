@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,qhres.com
   - DOMAIN-SUFFIX,qhimg.com
   # > Alibaba
-  # USER-AGENT,%E4%BC%98%E9%85%B7*
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibabausercontent.com
   - DOMAIN-SUFFIX,alicdn.com
@@ -380,9 +379,10 @@ payload:
   - DOMAIN-SUFFIX,zhuihd.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,images-cn.ssl-images-amazon.com
-# 6pan
+    # 6pan
   - DOMAIN-SUFFIX,qiecdn.com
   - DOMAIN-SUFFIX,6pan.cn
     # > Other
   - DOMAIN-SUFFIX,ali213.net
+  - PROCESS-NAME,DownloadSDKServer.exe
   - DOMAIN-SUFFIX,cn
