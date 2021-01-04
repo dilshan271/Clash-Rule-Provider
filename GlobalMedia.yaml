@@ -268,3 +268,5 @@ payload:
   - DOMAIN,youtubei.googleapis.com
   # > EMBY-WTF
   - DOMAIN-SUFFIX,emby.wtf
+  # > JMS
+  - DOMAIN-SUFFIX,jmsooo.com:443
