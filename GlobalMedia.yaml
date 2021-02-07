@@ -269,4 +269,4 @@ payload:
   # > EMBY-WTF
   - DOMAIN-SUFFIX,emby.wtf
   # > JMS
-  - DOMAIN-SUFFIX,jmsooo.com:443
+  - DOMAIN-SUFFIX,jmsooo.com
