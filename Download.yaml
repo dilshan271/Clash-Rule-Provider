@@ -6,3 +6,4 @@ payload:
  - DOMAIN-KEYWORD,XLLiveUD
    # > Steam Download
  - DOMAIN-SUFFIX,steamcontent.com
+ - DOMAIN-KEYWORD,dl.steam
