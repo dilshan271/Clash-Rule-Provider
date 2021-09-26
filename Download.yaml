@@ -4,3 +4,5 @@ payload:
  - DOMAIN-KEYWORD,yunpan
  - DOMAIN-KEYWORD,Thunder
  - DOMAIN-KEYWORD,XLLiveUD
+   # > Steam Download
+ - DOMAIN-SUFFIX,steamcontent.com
