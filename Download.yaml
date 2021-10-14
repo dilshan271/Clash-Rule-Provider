@@ -7,5 +7,6 @@ payload:
    # > Steam Download
  - DOMAIN-SUFFIX,steamcontent.com
  - DOMAIN-KEYWORD,dl.steam
+ - DOMAIN-KEYWORD,steamcontent.tnkjmec
    # > BaiduYun Download 
  - DOMAIN-SUFFIX,baidupcs.com
